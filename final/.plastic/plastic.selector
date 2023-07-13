@@ -1,0 +1,4 @@
+repository "project snake@ijkfd583758@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
